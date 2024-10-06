@@ -1,3 +1,5 @@
+#!/bin/sh
+
 set -e
 
 ascii_art='
@@ -28,3 +30,4 @@ fi
 
 echo "Installation starting..."
 source ~/.local/share/fieldmint/install.sh
+echo "TestChange"
