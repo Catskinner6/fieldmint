@@ -1,6 +1,9 @@
+#!/bin/sh
+
 set -e
 
-ascii_art='  _____ _      _     _   __  __ _       _   
+ascii_art='
+  _____ _      _     _   __  __ _       _   
  |  ___(_) ___| | __| | |  \/  (_)_ __ | |_ 
  | |_  | |/ _ \ |/ _` | | |\/| | | '_ \| __|
  |  _| | |  __/ | (_| | | |  | | | | | | |_ 
@@ -27,3 +30,4 @@ fi
 
 echo "Installation starting..."
 source ~/.local/share/fieldmint/install.sh
+echo "TestChange"
