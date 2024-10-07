@@ -2,14 +2,13 @@
 
 set -e
 
-ascii_art='
-  _____ _      _     _   __  __ _       _   
+ascii_art="  _____ _      _     _   __  __ _       _   
  |  ___(_) ___| | __| | |  \/  (_)_ __ | |_ 
  | |_  | |/ _ \ |/ _  | | |\/| | |  _ \| __|
  |  _| | |  __/ | (_| | | |  | | | | | | |_ 
  |_|   |_|\___|_|\__,_| |_|  |_|_|_| |_|\__|
                                              
-'
+"
 
 echo -e "$ascii_art"
 echo "=> Field Mint is for a fresh install of Linux Mint Debian Edition 6 (Cinnamon) only!"
