@@ -1,7 +1,7 @@
 # Field Mint
 A fresh configuration of LMDE 6 Cinnamon to be structured like a window manager.
 
-Inspired by my desire to quickly configure a machine to my settings, and the re-skin of Obuntu, known as "Omakub" by DHH.
+Inspired by my desire to quickly configure a machine to my settings, and the re-skin of Ubuntu, known as "Omakub" by DHH.
 
 "Field Mint" refers to how wild, field mint is rather plain. This is not a fully reskinned and themed version of Mint, but simply a set of desired packages, and settings for Cinnamon so that it behaves more like a window manager without losing Mint's already- incredibly polished user experience.
 
